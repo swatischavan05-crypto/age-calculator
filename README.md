@@ -43,7 +43,11 @@ The application displays:
 - Responsive layout
 - Easy navigation (Back button)
 
----
+---### 🔹 Input Page
+![Input](input.png)
+
+### 🔹 Output Page
+![Output](output.png)
 
 ##  How to Run
 
