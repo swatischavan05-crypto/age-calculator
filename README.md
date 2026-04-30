@@ -42,12 +42,10 @@ The application displays:
 - UTF-8 encoding support (emoji compatible 👋)
 - Responsive layout
 - Easy navigation (Back button)
+- 
+![Input](image.png)
+![Output](result.png)
 
----### 🔹 Input Page
-![Input](input.png)
-
-### 🔹 Output Page
-![Output](output.png)
 
 ##  How to Run
 
