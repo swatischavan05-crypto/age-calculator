@@ -1,6 +1,6 @@
-# 🎂 Age Calculator Web Application
+#  Age Calculator Web Application
 
-## 📌 Project Description
+## Project Description
 This is a simple web-based Age Calculator developed using JSP and HTML.  
 The application takes user input such as name and date of birth, and calculates:
 
@@ -9,7 +9,7 @@ The application takes user input such as name and date of birth, and calculates:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML
 - CSS
 - JSP (Java Server Pages)
@@ -18,7 +18,7 @@ The application takes user input such as name and date of birth, and calculates:
 
 ---
 
-## 📥 Input
+##  Input
 The user enters:
 - Name
 - Birth Year
@@ -27,7 +27,7 @@ The user enters:
 
 ---
 
-## 📤 Output
+## Output
 The application displays:
 - User's Name
 - Calculated Age
@@ -36,7 +36,7 @@ The application displays:
 
 ---
 
-## 🎯 Features
+##  Features
 - Clean and professional UI design
 - Input validation (error handling)
 - UTF-8 encoding support (emoji compatible 👋)
@@ -45,7 +45,7 @@ The application displays:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install Apache Tomcat Server
 2. Place project folder inside:
@@ -56,18 +56,6 @@ The application displays:
 
 ---
 
-## 📸 Screenshots
-
-### 🔹 Input Page
-(Add screenshot here)
-
-### 🔹 Output Page
-(Add screenshot here)
-
----
-
-## 👨‍💻 Author
-- Your Name
 
 ---
 
